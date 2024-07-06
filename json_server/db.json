@@ -1,0 +1,24 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "HTML, CSS từ Zero Tới Hero",
+      "description": "Khóa học phù hợp cho cả người chưa từng học lập trình. Trong khóa này chúng ta sẽ cùng nhau xây dựng giao diện 2 trang web là The Band & Shopee."
+    },
+    {
+      "id": "2",
+      "title": "Javascript Cơ Bản",
+      "description": "Học Javascript cơ bản phù hợp cho người chưa từng học lập trình. Với hơn 100 bài học và có bài tập thực hành sau mỗi bài học."
+    },
+    {
+      "id": "3",
+      "title": "ReactJS",
+      "description": "Khoá học ReactJS mới nhất 2022, mục tiêu của khoá này là giúp các bạn có thể đầy đủ hành trang để đi làm ❤️"
+    },
+    {
+      "id": "d3ec",
+      "title": "Node.js Fundamentals",
+      "description": "Learn the basics of Node.js, including asynchronous programming, file system operations, and building RESTful APIs with Express."
+    }
+  ]
+}
